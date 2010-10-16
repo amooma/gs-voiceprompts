@@ -97,3 +97,15 @@
 "wenn-sie-warten-werden-sie-automatisch-mit-der-telefonzentrale-verbunden";"Wenn Sie warten, werden Sie automatisch mit der Telefonzentrale verbunden.";"If you wait you will be connected to the switchboard";
 "willkommen";"Wilkommen";"Welcome";
 "replace-vm-options";"Durch Drücken der Stern-Taste kommen Sie zurück ins Hauptmenü";"press star key to return to the main menu.";
+"alarm_change";"Um die Weckzeit zu ändern, drücken Sie die Stern-Taste. Um die Weckzeit zu löschen, drücken Sie die Raute-Taste."
+"error";"Es ist ein Fehler aufgetreten."
+"error_entry";"Die Eingabe ist ungültig. Geben Sie die gewünschte Weckzeit vierstellig über die Tastatur ein. Zum Beispiel null sieben eins fünf für 7 Uhr 15."
+"error_wakeup_call_canclelled";"Beim Löschen des Weckrufes ist ein Fehler aufgetreten."
+"no_wakeup_call";"Es ist kein Weckruf programmiert."
+"wakeup_call_announcement";"Dies ist Ihr gewünschter Weck ruf! Es ist jetzt"
+"wakeup_call_cancelled";"Ihr Weckruf wurde gelöscht."
+"wakeup_call_confirmed";"Weck ruf aktiviert für"
+"wakeup_call_language_selection";"Weck ruf! Bitte drücken Sie Eins für Deutsch - oder Zwei für Englisch."
+"wakeup_call_request";"Geben Sie die gewünschte Weckzeit vierstellig über die Tastatur ein. Zum Beispiel null sieben eins fünf für 7 Uhr 15."
+"wakeup_call_saved";"Ihr Weckruf wurde gespeichert."
+"druecken-sie-1-um-die-aufnahme-zu-speichern";"Drücken sie die 1 um die Aufnahme zu speichern."
